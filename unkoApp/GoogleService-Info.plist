@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>102093004550-habtu73ucu91kamequvmljrngi5ogfsi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.102093004550-habtu73ucu91kamequvmljrngi5ogfsi</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD-UJvf_M3kvyCUjQIlS8NvEwmnD1uo2JA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>102093004550</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.shino.unkoApp</string>
+	<key>PROJECT_ID</key>
+	<string>unkoapp-b2ef1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>unkoapp-b2ef1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:102093004550:ios:c6822b3aa8c71592660887</string>
+	<key>DATABASE_URL</key>
+	<string>https://unkoapp-b2ef1.firebaseio.com</string>
+</dict>
+</plist>
